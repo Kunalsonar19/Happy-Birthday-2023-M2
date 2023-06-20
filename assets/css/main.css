@@ -4008,7 +4008,7 @@ body.is-mobile #main>header {
 	color: rgba(255, 255, 255, 0.8);
 	display: inline-block;
 	line-height: 1em;
-	margin: 0 0.5em;
+	margin: 0 0.2em;
 	padding: 0.25em;
 	transition: color 0.5s ease;
 	
